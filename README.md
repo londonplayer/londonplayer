@@ -53,5 +53,4 @@
  ---
  
 
- _This README was generated with the help of an AI, because who has time to
- write these things themselves?_
+ _I like Friends (the sitcom, but real friends are good too)._
