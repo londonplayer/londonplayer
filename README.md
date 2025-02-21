@@ -1,4 +1,4 @@
- # Hey! 🤠
+ # Hey, I'm JJ! 🤠
  
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gerhardt-253143210/)
@@ -6,12 +6,7 @@
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvgerhardt@gmail.com)
  
 
- ## About Me
- 
-
- > "I'm Vitor, a passionate (not about Redux) software developer from Brazil, currently navigating the wild
- > world of React and Django. I also go around experimenting some new things, like React Native and
- > Node.js."
+ ### I work at a cool company called [Longview](https://www.instagram.com/longview_tecnologia/) at the moment. I like to build apps for personal use and experience - I often have a lot of cool ideias, just don't know how to keep up with them.
  
  📍Novo Hamburgo, Brazil <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgwbXlsbGVsam96ZTc3ZXZpOG1rMXcwbTJudmI0a3hvd2ZtcDNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIqdxoOVJ2oak/giphy.gif" width="25">
    
