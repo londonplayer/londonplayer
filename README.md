@@ -13,10 +13,9 @@
  > world of React and Django. Soon to be wrestling with React Native and
  > Node.js. Send help."
  
- *  Novo Hamburgo, Brazil
+ 📍Novo Hamburgo, Brazil <img src="https://media.tenor.com/vd-F6AvkmOoAAAAM/brazil-flag.gif" width="60">
    
  
-
  ## Skills
  
 
