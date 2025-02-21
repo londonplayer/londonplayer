@@ -50,12 +50,6 @@
  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
  
 
- ## Let's Connect
- 
-
- Feel free to reach out if you have any questions or just want to connect!
- 
-
  ---
  
 
