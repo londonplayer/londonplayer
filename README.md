@@ -12,7 +12,13 @@
    
  
  ## Skills
- 
+
+ ### Apart from the tech stuff and coming right out of the book "I do these things but I'm no professional, maybe not even good at": 
+ - 🎼 Music
+ - 🧑‍🍳 Gastronomy
+ - 📷 Photography
+ - 📘 English (I am as fluent as one can be)
+   
 
  ### Programming Languages
  
