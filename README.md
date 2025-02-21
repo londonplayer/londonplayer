@@ -13,10 +13,8 @@
  > world of React and Django. Soon to be wrestling with React Native and
  > Node.js. Send help."
  
-
- *  **Location:** Novo Hamburgo, Brazil
- *  **Occupation:** Middle Software Developer
- *  **Interests:** Music, Photography and gatronomy mainly
+ *  Novo Hamburgo, Brazil
+   
  
 
  ## Skills
