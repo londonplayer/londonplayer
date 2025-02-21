@@ -29,8 +29,8 @@
 
  _Yeah I know what you gonna say, but I don't know where else to put it._
  
- - [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) This is because of react.
- - [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) This is because of react.
+ - [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) This is because of React.
+ - [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) This is because of React.
  - [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#) This is because of... internet.
  
 
