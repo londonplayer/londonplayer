@@ -53,14 +53,6 @@
  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
  
 
- ## Contact
- 
-
- *  jvgerhardt@gmail.com
- *  [LinkedIn](https://www.linkedin.com/in/vitor-gerhardt-253143210/)
- *  [GitHub](https://github.com/londonplayer)
- 
-
  ## Let's Connect
  
 
