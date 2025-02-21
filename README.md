@@ -1,4 +1,4 @@
- # Howdy fellas! 🤠
+ # Hey! 🤠
  
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gerhardt-253143210/)
@@ -9,11 +9,11 @@
  ## About Me
  
 
- > "A passionate software developer from Brazil, currently navigating the wild
- > world of React and Django. Soon to be wrestling with React Native and
- > Node.js. Send help."
+ > "I'm Vitor, a passionate (not about Redux) software developer from Brazil, currently navigating the wild
+ > world of React and Django. I also go around experimenting some new things, like React Native and
+ > Node.js."
  
- 📍Novo Hamburgo, Brazil   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgwbXlsbGVsam96ZTc3ZXZpOG1rMXcwbTJudmI0a3hvd2ZtcDNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIqdxoOVJ2oak/giphy.gif" width="25">
+ 📍Novo Hamburgo, Brazil <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgwbXlsbGVsam96ZTc3ZXZpOG1rMXcwbTJudmI0a3hvd2ZtcDNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIqdxoOVJ2oak/giphy.gif" width="25">
    
  
  ## Skills
